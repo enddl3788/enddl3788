@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/><!--CSS-->,
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><!--JS-->,
 <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/><!--Bootstrap-->,
-XML
+<img src="https://img.shields.io/badge/xml-007396?style=flat-square&logo=xml&logoColor=white"/><!--XML-->
 <!--백엔드-->
 - Backend:
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><!--JAVA-->,
@@ -46,7 +46,9 @@ XML
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/><!--Google Cloud-->,
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/><!--Firebase-->
 <!--버전관리도구-->
-- Version Control: git, GitHub
+- Version Control:
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><!--Git-->,
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><!--GitHub-->
 <!--
 - Communication: [자격증]
 -->
