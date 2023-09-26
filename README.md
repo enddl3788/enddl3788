@@ -3,14 +3,12 @@
 저는 송예빈<!--이름-->이라고 하며, 성결대학교<!--직장-->에서 열정적으로 개발을 하는 개발자입니다. 제 GitHub 프로필로 오신 것을 환영합니다!
 
 📊 제 GitHub 통계를 요약한 카드입니다:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enddl3788&show_icons=true&theme=dark)
 
 ### 📝 자기 소개
 
 저는 대학생<!--직업-->으로, 안드로이드와 웹 개발<!--관심사-->에 큰 관심을 가지고 있습니다. 코딩을 좋아하며 항상 새로운 기술을 탐구합니다. 주로 사용하는 프로그래밍 언어는 JAVA<!--개발언어-->이며, 더 배우고자 항상 열려 있습니다.
-
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
-
 <!--
 ### 🌱 현재 작업 중인 프로젝트
 
@@ -27,13 +25,26 @@
 ### 🔧 기술 스택
 
 <!--프론트엔드-->
-- Frontend: HTML, CSS, JS, Bootstrap, XML
+- Frontend: 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><!--HTML-->,
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/><!--CSS-->,
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><!--JS-->,
+<img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/><!--Bootstrap-->,
+XML
 <!--백엔드-->
-- Backend: JAVA, PYTHON, Firebase
+- Backend:
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><!--JAVA-->,
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><!--PYTHON-->,
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/><!--Firebase-->,
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/><!--Google Colab-->
 <!--모바일 앱-->
-- Mobile App: Android Studio
+- Mobile App:
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/><!--Android-->,
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/><!--Android Studio-->
 <!--배포-->
-- Deployment: Firebase
+- Deployment:
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/><!--Google Cloud-->,
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/><!--Firebase-->
 <!--버전관리도구-->
 - Version Control: git, GitHub
 <!--
