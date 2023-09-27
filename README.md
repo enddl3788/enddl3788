@@ -31,7 +31,7 @@
 <!--프론트엔드-->
 - Frontend: 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><!--HTML-->,
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/><!--CSS-->,
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><!--CSS-->,
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><!--JS-->,
 <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/><!--Bootstrap-->,
 <img src="https://img.shields.io/badge/xml-007396?style=flat-square&logo=xml&logoColor=white"/><!--XML-->
