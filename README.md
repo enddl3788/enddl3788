@@ -5,7 +5,7 @@
 📊 제 GitHub 통계를 요약한 카드입니다:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enddl3788&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enddl3788&layout=compact&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enddl3788&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📝 자기 소개
 
