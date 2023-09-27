@@ -11,9 +11,11 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enddl3788&layout=compact&theme=dark" />
 </a>
 
+<!--START_SECTION:waka-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=enddl3788&layout=compact&theme=dark" />
 </a>
+<!--END_SECTION:waka-->
 
 ### 📝 자기 소개
 
