@@ -3,9 +3,12 @@
 저의 이름은 송예빈<!--이름-->이고, 성결대학교<!--직장-->에서 열정적으로 개발을 하는 개발자입니다. 제 GitHub 프로필로 오신 것을 환영합니다!
 
 📊 제 GitHub 통계를 요약한 카드입니다:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enddl3788&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enddl3788&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enddl3788&show_icons=true&theme=dark&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enddl3788&layout=compact&theme=dark" />
+</a>
 
 ### 📝 자기 소개
 
