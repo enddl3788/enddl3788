@@ -7,6 +7,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=enddl3788&show_icons=true&theme=dark&rank_icon=github" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enddl3788&layout=compact&theme=dark" />
 </a>
