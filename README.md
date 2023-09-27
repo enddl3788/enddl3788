@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enddl3788&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enddl3788)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📝 자기 소개
 
 저는 대학생<!--직업-->으로, 안드로이드와 웹 개발<!--관심사-->에 큰 관심을 가지고 있습니다. 코딩을 좋아하며 항상 새로운 기술을 탐구합니다. 
