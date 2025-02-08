@@ -15,7 +15,7 @@
 
 저는 대학생<!--직업-->으로, 안드로이드와 웹 개발<!--관심사-->에 큰 관심을 가지고 있습니다. 코딩을 좋아하며 항상 새로운 기술을 탐구합니다. 
 
-주로 사용하는 프로그래밍 언어는 JAVA<!--개발언어-->이며, 더 배우고자 항상 열려 있습니다.
+주로 사용하는 프로그래밍 언어는 JAVA와 PYTHON<!--개발언어-->이며, 더 배우고자 항상 열려 있습니다.
 <!--
 ### 🌱 현재 작업 중인 프로젝트
 
@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><!--PYTHON-->,
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/><!--Firebase-->,
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/><!--Google Colab-->
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/><!--Flask-->
 <!--모바일 앱-->
 - Mobile App:
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/><!--Android-->,
